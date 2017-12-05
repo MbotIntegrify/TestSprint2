@@ -1,6 +1,14 @@
 ﻿//This file is for streaming from the webcam.
 //This line is added just to test TestSprint2 repo
 //anothertest
+//Maste added this
+//Final addition from Master
+<<<<<<< HEAD
+
+///dakldshfasklj
+=======
+//my final dan branch
+>>>>>>> 1ff4e64... fasf
 var localstream;
 
 // Display containers
