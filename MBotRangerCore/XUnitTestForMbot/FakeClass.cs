@@ -7,6 +7,7 @@ namespace XUnitMbot
     public class FakeClass
     {
         //First Comment
+        //Second comment
         public bool FakeMethod()
         {
             return true;
