@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace XUnitMbot
 {
+    //Master comment 3
     public class XUnitClass
     {
         [Fact]
