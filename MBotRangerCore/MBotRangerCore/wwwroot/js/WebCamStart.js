@@ -3,12 +3,8 @@
 //anothertest
 //Maste added this
 //Final addition from Master
-<<<<<<< HEAD
 
 ///dakldshfasklj
-=======
-//my final dan branch
->>>>>>> 1ff4e64... fasf
 var localstream;
 
 // Display containers
