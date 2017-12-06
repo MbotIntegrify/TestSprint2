@@ -13,6 +13,7 @@ namespace XUnitMbot
             //master comment 1
             //master comment 1
        //oorigin comment
+        //oriting comment
         public bool FakeMethod()
         {
             return true;
