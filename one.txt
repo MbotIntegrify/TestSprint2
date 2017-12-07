@@ -1,4 +1,1 @@
 example text
-
-testBranch added this line
-master branch added this line
