@@ -16,6 +16,7 @@ namespace XUnitMbot
             RobotController robot = new RobotController();
             Assert.True(robot.ForXUnit());
         }
+///Comment from same branch on linux
         [Fact]
         public void testFakeMethod()
         {
